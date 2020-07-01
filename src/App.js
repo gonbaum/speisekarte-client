@@ -5,8 +5,15 @@ import Item from './components/Item'
 
 function App() {
 
-  const [menuItems, setMenuItems] = useState(items)
+  // State for loaded items:
 
+  const [menuItems, setMenuItems] = useState([])
+
+  // Fetch initial notes:
+
+  useEffect(() => {
+        setMenuItems(items)
+  }, [])
   
   return (
     <div className="App">
