@@ -49,6 +49,26 @@
             "price": "7",
             "date": "2019-05-30T17:30:31.098Z",
             "highlighted": false
+        },
+        {
+            "id": 6,
+            "name": "Capuccino",
+            "description": "This is a lot of information about a plate including details",
+            "img": "https://www.roastmarket.de/magazin/wp-content/uploads/2018/03/cappuccino-tasse-latte-art.jpg",
+            "category": "coffee",
+            "price": "7",
+            "date": "2019-05-30T17:30:31.098Z",
+            "highlighted": false
+        },
+        {
+            "id": 7,
+            "name": "Cortado",
+            "description": "This is a lot of information about a plate including details",
+            "img": "https://perfectdailygrind.com/wp-content/uploads/2020/03/Cortadito-1.png",
+            "category": "coffee",
+            "price": "7",
+            "date": "2019-05-30T17:30:31.098Z",
+            "highlighted": false
         }
     ]
 }
