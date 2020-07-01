@@ -6,29 +6,49 @@
             "description": "This is a lot of information about a plate including details",
             "img": "https://www.gutekueche.at/img/rezept/3859/alpen-kaesespaetzle.jpg",
             "category": "food",
-            "Price": "7",
+            "price": "7",
             "date": "2019-05-30T17:30:31.098Z",
-            "highlighted": true
+            "highlighted": false
         },
         {
             "id": 2,
-            "name": "Alpen-Käsespätzle",
+            "name": "Scrambled Eggs",
             "description": "This is a lot of information about a plate including details",
-            "img": "https://www.gutekueche.at/img/rezept/3859/alpen-kaesespaetzle.jpg",
+            "img": "https://previews.123rf.com/images/fermate/fermate1505/fermate150500025/39558932-r%C3%BChrei-mit-petersilie-garnieren-auf-einem-wei%C3%9Fen-teller.jpg",
             "category": "food",
-            "Price": "7",
+            "price": "5",
             "date": "2019-05-30T17:30:31.098Z",
             "highlighted": true
         },
         {
             "id": 3,
+            "name": "Muesli",
+            "description": "This is a lot of information about a plate including details",
+            "img": "https://www.macheesmo.com/wp-content/uploads/2010/01/Fruit-and-Honey-Muesli.jpg",
+            "category": "food",
+            "price": "7",
+            "date": "2019-05-30T17:30:31.098Z",
+            "highlighted": false
+        },
+        {
+            "id": 4,
             "name": "Alpen-Käsespätzle",
             "description": "This is a lot of information about a plate including details",
             "img": "https://www.gutekueche.at/img/rezept/3859/alpen-kaesespaetzle.jpg",
             "category": "food",
-            "Price": "7",
+            "price": "7",
             "date": "2019-05-30T17:30:31.098Z",
-            "highlighted": true
+            "highlighted": false
+        },
+        {
+            "id": 5,
+            "name": "Alpen-Käsespätzle",
+            "description": "This is a lot of information about a plate including details",
+            "img": "https://www.gutekueche.at/img/rezept/3859/alpen-kaesespaetzle.jpg",
+            "category": "food",
+            "price": "7",
+            "date": "2019-05-30T17:30:31.098Z",
+            "highlighted": false
         }
     ]
 }
