@@ -5,7 +5,7 @@
             "name": "Alpen-Käsespätzle",
             "description": "This is a lot of information about a plate including details",
             "img": "https://www.gutekueche.at/img/rezept/3859/alpen-kaesespaetzle.jpg",
-            "category": "food",
+            "category": "Food",
             "price": "7",
             "date": "2019-05-30T17:30:31.098Z",
             "highlighted": false
@@ -15,7 +15,7 @@
             "name": "Scrambled Eggs",
             "description": "This is a lot of information about a plate including details",
             "img": "https://previews.123rf.com/images/fermate/fermate1505/fermate150500025/39558932-r%C3%BChrei-mit-petersilie-garnieren-auf-einem-wei%C3%9Fen-teller.jpg",
-            "category": "food",
+            "category": "Food",
             "price": "5",
             "date": "2019-05-30T17:30:31.098Z",
             "highlighted": true
@@ -25,7 +25,7 @@
             "name": "Muesli",
             "description": "This is a lot of information about a plate including details",
             "img": "https://www.macheesmo.com/wp-content/uploads/2010/01/Fruit-and-Honey-Muesli.jpg",
-            "category": "food",
+            "category": "Food",
             "price": "7",
             "date": "2019-05-30T17:30:31.098Z",
             "highlighted": false
@@ -35,7 +35,7 @@
             "name": "Alpen-Käsespätzle",
             "description": "This is a lot of information about a plate including details",
             "img": "https://www.gutekueche.at/img/rezept/3859/alpen-kaesespaetzle.jpg",
-            "category": "food",
+            "category": "Food",
             "price": "7",
             "date": "2019-05-30T17:30:31.098Z",
             "highlighted": false
@@ -45,7 +45,7 @@
             "name": "Alpen-Käsespätzle",
             "description": "This is a lot of information about a plate including details",
             "img": "https://www.gutekueche.at/img/rezept/3859/alpen-kaesespaetzle.jpg",
-            "category": "food",
+            "category": "Food",
             "price": "7",
             "date": "2019-05-30T17:30:31.098Z",
             "highlighted": false
@@ -55,7 +55,7 @@
             "name": "Capuccino",
             "description": "This is a lot of information about a plate including details",
             "img": "https://www.roastmarket.de/magazin/wp-content/uploads/2018/03/cappuccino-tasse-latte-art.jpg",
-            "category": "coffee",
+            "category": "Coffee",
             "price": "7",
             "date": "2019-05-30T17:30:31.098Z",
             "highlighted": false
@@ -65,7 +65,7 @@
             "name": "Cortado",
             "description": "This is a lot of information about a plate including details",
             "img": "https://perfectdailygrind.com/wp-content/uploads/2020/03/Cortadito-1.png",
-            "category": "coffee",
+            "category": "Coffee",
             "price": "7",
             "date": "2019-05-30T17:30:31.098Z",
             "highlighted": false
