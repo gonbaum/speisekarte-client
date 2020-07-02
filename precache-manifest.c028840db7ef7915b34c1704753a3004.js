@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "da3ffcf23ad2a3fbc0cf3f7e23262746",
+    "revision": "ec441c8c09930df6b7030998a63bda4c",
     "url": "/speisekarte-client/index.html"
   },
   {
-    "revision": "ae996419c8950713201b",
+    "revision": "30fb3387ade999f70a07",
     "url": "/speisekarte-client/static/css/main.0589a2a8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/speisekarte-client/static/js/2.6ce9a4c5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ae996419c8950713201b",
-    "url": "/speisekarte-client/static/js/main.93eebf2a.chunk.js"
+    "revision": "30fb3387ade999f70a07",
+    "url": "/speisekarte-client/static/js/main.fbfcd0d9.chunk.js"
   },
   {
     "revision": "9e142f45bbaab9c16d4a",
