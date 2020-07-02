@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/speisekarte-client/static/css/main.0589a2a8.chunk.css",
-    "main.js": "/speisekarte-client/static/js/main.359b90f5.chunk.js",
-    "main.js.map": "/speisekarte-client/static/js/main.359b90f5.chunk.js.map",
-    "runtime-main.js": "/speisekarte-client/static/js/runtime-main.a5f94c0d.js",
-    "runtime-main.js.map": "/speisekarte-client/static/js/runtime-main.a5f94c0d.js.map",
-    "static/js/2.6ce9a4c5.chunk.js": "/speisekarte-client/static/js/2.6ce9a4c5.chunk.js",
-    "static/js/2.6ce9a4c5.chunk.js.map": "/speisekarte-client/static/js/2.6ce9a4c5.chunk.js.map",
-    "index.html": "/speisekarte-client/index.html",
-    "precache-manifest.0d6570b80aa648a5ae9f2f8618a07d23.js": "/speisekarte-client/precache-manifest.0d6570b80aa648a5ae9f2f8618a07d23.js",
-    "service-worker.js": "/speisekarte-client/service-worker.js",
-    "static/css/main.0589a2a8.chunk.css.map": "/speisekarte-client/static/css/main.0589a2a8.chunk.css.map",
-    "static/js/2.6ce9a4c5.chunk.js.LICENSE.txt": "/speisekarte-client/static/js/2.6ce9a4c5.chunk.js.LICENSE.txt"
+    "main.css": "/speisekarte-client/public/index.html/static/css/main.0589a2a8.chunk.css",
+    "main.js": "/speisekarte-client/public/index.html/static/js/main.55ac5c44.chunk.js",
+    "main.js.map": "/speisekarte-client/public/index.html/static/js/main.55ac5c44.chunk.js.map",
+    "runtime-main.js": "/speisekarte-client/public/index.html/static/js/runtime-main.e13c1494.js",
+    "runtime-main.js.map": "/speisekarte-client/public/index.html/static/js/runtime-main.e13c1494.js.map",
+    "static/js/2.6ce9a4c5.chunk.js": "/speisekarte-client/public/index.html/static/js/2.6ce9a4c5.chunk.js",
+    "static/js/2.6ce9a4c5.chunk.js.map": "/speisekarte-client/public/index.html/static/js/2.6ce9a4c5.chunk.js.map",
+    "index.html": "/speisekarte-client/public/index.html/index.html",
+    "precache-manifest.6459e997a07dbff280728b93523a59a3.js": "/speisekarte-client/public/index.html/precache-manifest.6459e997a07dbff280728b93523a59a3.js",
+    "service-worker.js": "/speisekarte-client/public/index.html/service-worker.js",
+    "static/css/main.0589a2a8.chunk.css.map": "/speisekarte-client/public/index.html/static/css/main.0589a2a8.chunk.css.map",
+    "static/js/2.6ce9a4c5.chunk.js.LICENSE.txt": "/speisekarte-client/public/index.html/static/js/2.6ce9a4c5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a5f94c0d.js",
+    "static/js/runtime-main.e13c1494.js",
     "static/js/2.6ce9a4c5.chunk.js",
     "static/css/main.0589a2a8.chunk.css",
-    "static/js/main.359b90f5.chunk.js"
+    "static/js/main.55ac5c44.chunk.js"
   ]
 }
