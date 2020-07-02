@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/speisekarte-client/static/css/main.0589a2a8.chunk.css",
-    "main.js": "/speisekarte-client/static/js/main.359b90f5.chunk.js",
-    "main.js.map": "/speisekarte-client/static/js/main.359b90f5.chunk.js.map",
+    "main.js": "/speisekarte-client/static/js/main.93eebf2a.chunk.js",
+    "main.js.map": "/speisekarte-client/static/js/main.93eebf2a.chunk.js.map",
     "runtime-main.js": "/speisekarte-client/static/js/runtime-main.a5f94c0d.js",
     "runtime-main.js.map": "/speisekarte-client/static/js/runtime-main.a5f94c0d.js.map",
     "static/js/2.6ce9a4c5.chunk.js": "/speisekarte-client/static/js/2.6ce9a4c5.chunk.js",
     "static/js/2.6ce9a4c5.chunk.js.map": "/speisekarte-client/static/js/2.6ce9a4c5.chunk.js.map",
     "index.html": "/speisekarte-client/index.html",
-    "precache-manifest.0d6570b80aa648a5ae9f2f8618a07d23.js": "/speisekarte-client/precache-manifest.0d6570b80aa648a5ae9f2f8618a07d23.js",
+    "precache-manifest.2dc05b0d9df7f2243f89ebce9d907eaf.js": "/speisekarte-client/precache-manifest.2dc05b0d9df7f2243f89ebce9d907eaf.js",
     "service-worker.js": "/speisekarte-client/service-worker.js",
     "static/css/main.0589a2a8.chunk.css.map": "/speisekarte-client/static/css/main.0589a2a8.chunk.css.map",
     "static/js/2.6ce9a4c5.chunk.js.LICENSE.txt": "/speisekarte-client/static/js/2.6ce9a4c5.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a5f94c0d.js",
     "static/js/2.6ce9a4c5.chunk.js",
     "static/css/main.0589a2a8.chunk.css",
-    "static/js/main.359b90f5.chunk.js"
+    "static/js/main.93eebf2a.chunk.js"
   ]
 }
