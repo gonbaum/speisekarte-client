@@ -69,6 +69,36 @@
             "price": "7",
             "date": "2019-05-30T17:30:31.098Z",
             "highlighted": false
+        },
+        {
+            "id": 7,
+            "name": "Wasser",
+            "description": "This is a lot of information about a plate including details",
+            "img": "https://image.jimcdn.com/app/cms/image/transf/dimension=1820x1280:format=jpg/path/sf1a386035455ee34/image/id2f36eaff3b58001/version/1525872685/image.jpg",
+            "category": "Beverages",
+            "price": "2",
+            "date": "2019-05-30T17:30:31.098Z",
+            "highlighted": false
+        },
+        {
+            "id": 7,
+            "name": "Radler",
+            "description": "This is a lot of information about a plate including details",
+            "img": "https://brauerei-hutthurm.de/wp-content/uploads/2018/10/Produktdarstellung-Shop-Radler-naturtr%C3%BCb-1920x1280.jpg",
+            "category": "Beverages",
+            "price": "3",
+            "date": "2019-05-30T17:30:31.098Z",
+            "highlighted": false
+        },
+        {
+            "id": 7,
+            "name": "Orangensaft",
+            "description": "This is a lot of information about a plate including details",
+            "img": "https://www.fitforfun.de/files/images/201806/1/o-saft,298178_m_n.jpg",
+            "category": "Beverages",
+            "price": "3",
+            "date": "2019-05-30T17:30:31.098Z",
+            "highlighted": false
         }
     ]
 }
