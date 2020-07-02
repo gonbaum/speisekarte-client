@@ -6,7 +6,7 @@ const Item = ({ itemData }) => {
             <div className="item-data">
                     <h2>{itemData.name}</h2>
                     <p>{itemData.description}</p>
-                    <p>Price: {itemData.price} Eur</p>
+                    <p>{itemData.price} Eur</p>
             </div>
             <div className="item-image" style={{display: 'none'}}>
                 <img className="item-image" src={itemData.img} alt={itemData.name}></img>
