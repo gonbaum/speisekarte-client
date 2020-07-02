@@ -29,8 +29,10 @@ function App() {
 
   return (
     <div className="App">
+      
       <header className="App-header">
-        <h1 className="title">Speisekarte</h1> 
+          <img style={{marginTop: '35px', marginBottom: '-35px'}} alt="bla" src="https://meierei.net/wp-content/uploads/2014/09/meierei_logo.png"></img>
+          <h1 className="title">Speisekarte</h1> 
         <div className="categories-box">
           <p>Categories:</p>
           <button onClick={ () => handleClick("All") }>All</button>
