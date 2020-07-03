@@ -31,7 +31,7 @@ function App() {
     <div className="App">
       
       <header className="App-header">
-          <img style={{marginTop: '35px', marginBottom: '-35px'}} alt="bla" src="https://meierei.net/wp-content/uploads/2014/09/meierei_logo.png"></img>
+          <img id="logo" style={{marginTop: '35px', marginBottom: '-35px'}} alt="bla" src="https://meierei.net/wp-content/uploads/2014/09/meierei_logo.png"></img>
           <h1 className="title">Speisekarte</h1> 
         <div className="categories-box">
           <p>Categories:</p>

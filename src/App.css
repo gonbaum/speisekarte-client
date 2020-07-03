@@ -36,3 +36,15 @@
   bottom: 21%;
 }
 
+#logo {
+  width: 221px;
+}
+
+/* Mobile ----------- */
+@media only screen and (max-width : 480px) {
+  /* Styles */
+  #logo {
+    width: 121px;
+  }
+}
+
