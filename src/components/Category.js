@@ -11,11 +11,11 @@ const Category = ({ category, items }) => {
                             <Item itemData={itemData} key={i} />)
     return (
         <div className="Category">
-            <h1>{category}</h1> 
-            <ul style={{margin: 0, padding: 0}}>
+            <h1>{category}</h1>
+            <h1 id="line-separator">---</h1>
+            <ul style={{marginTop: 0, padding: 0}}>
                 {filteredItems}
             </ul>
-            <h1>---</h1>
         </div>
         
     )
